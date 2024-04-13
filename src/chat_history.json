@@ -1,0 +1,34 @@
+{
+    "accounts": [
+        {
+            "username": "Aldrin123",
+            "password": "aldrin123",
+            "id": "453098"
+        },
+        {
+            "username": "John123",
+            "password": "john123",
+            "id": "093453"
+        }
+    ],
+    "chat_history": {
+        "093453": [
+            {
+                "role": "user",
+                "parts": [
+                    {
+                        "text": "Hello, I have 2 dogs in my house."
+                    }
+                ]
+            },
+            {
+                "role": "model",
+                "parts": [
+                    {
+                        "text": "Great to meet you. What would you like to know?"
+                    }
+                ]
+            }
+        ]
+    }
+}
